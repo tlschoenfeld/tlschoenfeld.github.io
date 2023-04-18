@@ -26,7 +26,7 @@ $body = "[
 `n            `"User`":{
 `n                `"Version`": `"0`",
 `n                `"userName`":`"admin`",
-`n                `"password`":`"123456`"
+`n                `"password`":`"******`"
 `n            }
 `n        }
 `n    }
